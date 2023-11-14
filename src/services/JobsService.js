@@ -1,4 +1,3 @@
-import { join } from "@prisma/client/runtime/library.js";
 import { prisma } from "../dataBase/connection.js";
 
 export class JobsService {
